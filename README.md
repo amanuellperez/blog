@@ -32,12 +32,12 @@ Algebra](https://www.youtube.com/playlist?list=PL1xF7Py1h3uzsMQJ5CUTPk9TYRi7AhLr
 * [Ondas](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89)
 
 ## Apoyo para el curso de física para instituto:
-### [Wikipedia (contiene los links de los videos)](https://en.wikipedia.org/wiki/Physical_Science_Study_Committee)
-### [Random events](https://archive.org/details/RandomEvents):
-### [Frames of reference](https://archive.org/details/frames_of_reference)
-### [Coulomb's Law](https://archive.org/details/coulombs_law)
-### [Coulomb force constant](https://archive.org/details/CoulombForceConstant)
-### [Magnet Laboratory](https://archive.org/details/magnet_laboratory_1959/magnet_laboratory_1959.mpeg)
+* [Wikipedia (contiene los links de los videos)](https://en.wikipedia.org/wiki/Physical_Science_Study_Committee)
+* [Random events](https://archive.org/details/RandomEvents):
+* [Frames of reference](https://archive.org/details/frames_of_reference)
+* [Coulomb's Law](https://archive.org/details/coulombs_law)
+* [Coulomb force constant](https://archive.org/details/CoulombForceConstant)
+* [Magnet Laboratory](https://archive.org/details/magnet_laboratory_1959/magnet_laboratory_1959.mpeg)
 
 
 
@@ -46,6 +46,10 @@ Algebra](https://www.youtube.com/playlist?list=PL1xF7Py1h3uzsMQJ5CUTPk9TYRi7AhLr
 
 
 # Programación (C++)
+## Consulta
+* [cppreference](https://en.cppreference.com/w/)
+* [Stack Overflow](https://stackoverflow.com/questions)
+
 ## Programadores
 * [Bjarne Stroustrup](http://www.stroustrup.com/C++.html)
 * [Herb Sutter](https://herbsutter.com/)
