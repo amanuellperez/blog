@@ -31,6 +31,9 @@ Algebra](https://www.youtube.com/playlist?list=PL1xF7Py1h3uzsMQJ5CUTPk9TYRi7AhLr
   Magnetismo](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 * [Ondas](https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89)
 
+### Experimentos de física
+* [WSU Physics Videos](https://www.youtube.com/channel/UCugeyK3l43x1_YEAWuKNong)
+
 ## Apoyo para el curso de física para instituto:
 * [Wikipedia (contiene los links de los videos)](https://en.wikipedia.org/wiki/Physical_Science_Study_Committee)
 * [Random events](https://archive.org/details/RandomEvents):
@@ -70,4 +73,20 @@ Algebra](https://www.youtube.com/playlist?list=PL1xF7Py1h3uzsMQJ5CUTPk9TYRi7AhLr
 
 ## Charlas
 * ["You get what you measure", de Hamming](https://youtu.be/LNhcaVi3zPA)
+
+# Electrónica
+
+* [w2aew](https://www.youtube.com/user/w2aew/videos)
+* [Curso para soldar](https://www.youtube.com/user/paceworldwide/playlists)
+
+
+# Artículos
+## Sobre estudios
+* [No hay estudios que comprueben la eficacia de los paracaídas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC300808/)
+
+
+## Curiosos
+* [Artículo del Times sobre por qué una mujer no debe de montar en bicicleta](https://timesmachine.nytimes.com/timesmachine/1894/08/12/106870661.pdf)
+
+
 
