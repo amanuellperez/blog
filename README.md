@@ -78,7 +78,7 @@ Algebra](https://www.youtube.com/playlist?list=PL1xF7Py1h3uzsMQJ5CUTPk9TYRi7AhLr
 
 * [w2aew](https://www.youtube.com/user/w2aew/videos)
 * [Curso para soldar](https://www.youtube.com/user/paceworldwide/playlists)
-
+* ...
 
 # Artículos
 ## Sobre estudios
