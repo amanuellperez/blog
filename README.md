@@ -33,6 +33,19 @@ Algebra](https://www.youtube.com/playlist?list=PL1xF7Py1h3uzsMQJ5CUTPk9TYRi7AhLr
 
 ### Experimentos de física
 * [WSU Physics Videos](https://www.youtube.com/channel/UCugeyK3l43x1_YEAWuKNong)
+* [uclaphysicsvideo](https://www.youtube.com/user/uclaphysicsvideo/featured)
+* [Royal Institution](https://www.youtube.com/user/TheRoyalInstitution/featured)
+* [Royal Institution Archive](https://www.youtube.com/c/RiArchives/featured)
+
+
+### Experimentos de química
+* [Periodic videos](https://www.youtube.com/user/periodicvideos/featured)
+
+### Para niños (o introductorios)
+* [Bruce Yeany](https://www.youtube.com/user/YeanyScience/featured)
+* Buscar a: Julius Sumner Miller.
+* Buscar a: Mr. Wizard.
+
 
 ## Apoyo para el curso de física para instituto:
 * [Wikipedia (contiene los links de los videos)](https://en.wikipedia.org/wiki/Physical_Science_Study_Committee)
@@ -78,7 +91,7 @@ Algebra](https://www.youtube.com/playlist?list=PL1xF7Py1h3uzsMQJ5CUTPk9TYRi7AhLr
 
 * [w2aew](https://www.youtube.com/user/w2aew/videos)
 * [Curso para soldar](https://www.youtube.com/user/paceworldwide/playlists)
-* ...
+
 
 # Artículos
 ## Sobre estudios
